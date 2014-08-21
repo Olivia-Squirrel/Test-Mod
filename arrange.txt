@@ -1,0 +1,567 @@
+Folder PATH listing for volume LENOVO
+Volume serial number is 000000A8 0641:0302
+D:.
+ÃÄÄÄ.gradle
+³   ÀÄÄÄ2.0
+³       ÀÄÄÄtaskArtifacts
+ÃÄÄÄ.settings
+ÃÄÄÄbuild
+³   ÃÄÄÄdependency-cache
+³   ÃÄÄÄnatives
+³   ÀÄÄÄtmp
+³       ÃÄÄÄdecompile
+³       ÃÄÄÄdeobfuscateJar
+³       ÃÄÄÄexpandedArchives
+³       ³   ÃÄÄÄfmlpatches.zip_5gbjd7psmi5i433nmb4tjuv9uu
+³       ³   ³   ÀÄÄÄnet
+³       ³   ³       ÀÄÄÄminecraft
+³       ³   ³           ÃÄÄÄblock
+³       ³   ³           ÃÄÄÄclient
+³       ³   ³           ³   ÃÄÄÄgui
+³       ³   ³           ³   ÃÄÄÄnetwork
+³       ³   ³           ³   ÃÄÄÄrenderer
+³       ³   ³           ³   ³   ÀÄÄÄentity
+³       ³   ³           ³   ÃÄÄÄresources
+³       ³   ³           ³   ÀÄÄÄsettings
+³       ³   ³           ÃÄÄÄcrash
+³       ³   ³           ÃÄÄÄentity
+³       ³   ³           ³   ÃÄÄÄboss
+³       ³   ³           ³   ÃÄÄÄitem
+³       ³   ³           ³   ÃÄÄÄmonster
+³       ³   ³           ³   ÃÄÄÄpassive
+³       ³   ³           ³   ÀÄÄÄplayer
+³       ³   ³           ÃÄÄÄinventory
+³       ³   ³           ÃÄÄÄitem
+³       ³   ³           ÃÄÄÄnetwork
+³       ³   ³           ÃÄÄÄrealms
+³       ³   ³           ÃÄÄÄserver
+³       ³   ³           ³   ÃÄÄÄdedicated
+³       ³   ³           ³   ÃÄÄÄgui
+³       ³   ³           ³   ÃÄÄÄintegrated
+³       ³   ³           ³   ÃÄÄÄmanagement
+³       ³   ³           ³   ÀÄÄÄnetwork
+³       ³   ³           ÃÄÄÄtileentity
+³       ³   ³           ÃÄÄÄutil
+³       ³   ³           ÀÄÄÄworld
+³       ³   ³               ÃÄÄÄchunk
+³       ³   ³               ³   ÀÄÄÄstorage
+³       ³   ³               ÃÄÄÄgen
+³       ³   ³               ³   ÀÄÄÄstructure
+³       ³   ³               ÀÄÄÄstorage
+³       ³   ÀÄÄÄforgepatches.zip_4gouek9tc1a2hndmdc67dvq38p
+³       ³       ÀÄÄÄnet
+³       ³           ÀÄÄÄminecraft
+³       ³               ÃÄÄÄblock
+³       ³               ÃÄÄÄclient
+³       ³               ³   ÃÄÄÄaudio
+³       ³               ³   ÃÄÄÄentity
+³       ³               ³   ÃÄÄÄgui
+³       ³               ³   ³   ÃÄÄÄachievement
+³       ³               ³   ³   ÀÄÄÄinventory
+³       ³               ³   ÃÄÄÄmodel
+³       ³               ³   ÃÄÄÄmultiplayer
+³       ³               ³   ÃÄÄÄnetwork
+³       ³               ³   ÃÄÄÄparticle
+³       ³               ³   ÃÄÄÄrenderer
+³       ³               ³   ³   ÃÄÄÄentity
+³       ³               ³   ³   ÃÄÄÄtexture
+³       ³               ³   ³   ÀÄÄÄtileentity
+³       ³               ³   ÀÄÄÄshader
+³       ³               ÃÄÄÄcommand
+³       ³               ÃÄÄÄcrash
+³       ³               ÃÄÄÄcreativetab
+³       ³               ÃÄÄÄenchantment
+³       ³               ÃÄÄÄentity
+³       ³               ³   ÃÄÄÄai
+³       ³               ³   ÃÄÄÄboss
+³       ³               ³   ÃÄÄÄeffect
+³       ³               ³   ÃÄÄÄitem
+³       ³               ³   ÃÄÄÄmonster
+³       ³               ³   ÃÄÄÄpassive
+³       ³               ³   ÀÄÄÄplayer
+³       ³               ÃÄÄÄinventory
+³       ³               ÃÄÄÄitem
+³       ³               ³   ÀÄÄÄcrafting
+³       ³               ÃÄÄÄnbt
+³       ³               ÃÄÄÄnetwork
+³       ³               ³   ÀÄÄÄplay
+³       ³               ³       ÀÄÄÄserver
+³       ³               ÃÄÄÄpotion
+³       ³               ÃÄÄÄserver
+³       ³               ³   ÃÄÄÄintegrated
+³       ³               ³   ÀÄÄÄmanagement
+³       ³               ÃÄÄÄstats
+³       ³               ÃÄÄÄtileentity
+³       ³               ÃÄÄÄutil
+³       ³               ÃÄÄÄvillage
+³       ³               ÀÄÄÄworld
+³       ³                   ÃÄÄÄbiome
+³       ³                   ÃÄÄÄchunk
+³       ³                   ³   ÀÄÄÄstorage
+³       ³                   ÃÄÄÄgen
+³       ³                   ³   ÃÄÄÄfeature
+³       ³                   ³   ÃÄÄÄlayer
+³       ³                   ³   ÀÄÄÄstructure
+³       ³                   ÀÄÄÄstorage
+³       ÃÄÄÄmakeStart
+³       ÃÄÄÄrecompCls
+³       ³   ÃÄÄÄcpw
+³       ³   ³   ÀÄÄÄmods
+³       ³   ³       ÀÄÄÄfml
+³       ³   ³           ÃÄÄÄclient
+³       ³   ³           ³   ÃÄÄÄconfig
+³       ³   ³           ³   ÃÄÄÄevent
+³       ³   ³           ³   ÀÄÄÄregistry
+³       ³   ³           ÃÄÄÄcommon
+³       ³   ³           ³   ÃÄÄÄasm
+³       ³   ³           ³   ³   ÀÄÄÄtransformers
+³       ³   ³           ³   ³       ÀÄÄÄdeobf
+³       ³   ³           ³   ÃÄÄÄdiscovery
+³       ³   ³           ³   ³   ÀÄÄÄasm
+³       ³   ³           ³   ÃÄÄÄevent
+³       ³   ³           ³   ÃÄÄÄeventhandler
+³       ³   ³           ³   ÃÄÄÄfunctions
+³       ³   ³           ³   ÃÄÄÄgameevent
+³       ³   ³           ³   ÃÄÄÄlauncher
+³       ³   ³           ³   ÃÄÄÄnetwork
+³       ³   ³           ³   ³   ÃÄÄÄhandshake
+³       ³   ³           ³   ³   ÃÄÄÄinternal
+³       ³   ³           ³   ³   ÀÄÄÄsimpleimpl
+³       ³   ³           ³   ÃÄÄÄpatcher
+³       ³   ³           ³   ÃÄÄÄregistry
+³       ³   ³           ³   ÃÄÄÄtoposort
+³       ³   ³           ³   ÀÄÄÄversioning
+³       ³   ³           ÃÄÄÄrelauncher
+³       ³   ³           ÃÄÄÄrepackage
+³       ³   ³           ³   ÀÄÄÄcom
+³       ³   ³           ³       ÀÄÄÄnothome
+³       ³   ³           ³           ÀÄÄÄdelta
+³       ³   ³           ÀÄÄÄserver
+³       ³   ÃÄÄÄibxm
+³       ³   ÃÄÄÄnet
+³       ³   ³   ÃÄÄÄminecraft
+³       ³   ³   ³   ÃÄÄÄblock
+³       ³   ³   ³   ³   ÀÄÄÄmaterial
+³       ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ÃÄÄÄaudio
+³       ³   ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ÃÄÄÄgui
+³       ³   ³   ³   ³   ³   ÃÄÄÄachievement
+³       ³   ³   ³   ³   ³   ÃÄÄÄinventory
+³       ³   ³   ³   ³   ³   ÀÄÄÄstream
+³       ³   ³   ³   ³   ÃÄÄÄmain
+³       ³   ³   ³   ³   ÃÄÄÄmodel
+³       ³   ³   ³   ³   ÃÄÄÄmultiplayer
+³       ³   ³   ³   ³   ÃÄÄÄnetwork
+³       ³   ³   ³   ³   ÃÄÄÄparticle
+³       ³   ³   ³   ³   ÃÄÄÄrenderer
+³       ³   ³   ³   ³   ³   ÃÄÄÄculling
+³       ³   ³   ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ³   ÃÄÄÄtexture
+³       ³   ³   ³   ³   ³   ÀÄÄÄtileentity
+³       ³   ³   ³   ³   ÃÄÄÄresources
+³       ³   ³   ³   ³   ³   ÀÄÄÄdata
+³       ³   ³   ³   ³   ÃÄÄÄsettings
+³       ³   ³   ³   ³   ÃÄÄÄshader
+³       ³   ³   ³   ³   ÃÄÄÄstream
+³       ³   ³   ³   ³   ÀÄÄÄutil
+³       ³   ³   ³   ÃÄÄÄcommand
+³       ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ÃÄÄÄcrash
+³       ³   ³   ³   ÃÄÄÄcreativetab
+³       ³   ³   ³   ÃÄÄÄdispenser
+³       ³   ³   ³   ÃÄÄÄenchantment
+³       ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ÃÄÄÄai
+³       ³   ³   ³   ³   ³   ÀÄÄÄattributes
+³       ³   ³   ³   ³   ÃÄÄÄboss
+³       ³   ³   ³   ³   ÃÄÄÄeffect
+³       ³   ³   ³   ³   ÃÄÄÄitem
+³       ³   ³   ³   ³   ÃÄÄÄmonster
+³       ³   ³   ³   ³   ÃÄÄÄpassive
+³       ³   ³   ³   ³   ÃÄÄÄplayer
+³       ³   ³   ³   ³   ÀÄÄÄprojectile
+³       ³   ³   ³   ÃÄÄÄevent
+³       ³   ³   ³   ÃÄÄÄinit
+³       ³   ³   ³   ÃÄÄÄinventory
+³       ³   ³   ³   ÃÄÄÄitem
+³       ³   ³   ³   ³   ÀÄÄÄcrafting
+³       ³   ³   ³   ÃÄÄÄnbt
+³       ³   ³   ³   ÃÄÄÄnetwork
+³       ³   ³   ³   ³   ÃÄÄÄhandshake
+³       ³   ³   ³   ³   ³   ÀÄÄÄclient
+³       ³   ³   ³   ³   ÃÄÄÄlogin
+³       ³   ³   ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄplay
+³       ³   ³   ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄrcon
+³       ³   ³   ³   ³   ÀÄÄÄstatus
+³       ³   ³   ³   ³       ÃÄÄÄclient
+³       ³   ³   ³   ³       ÀÄÄÄserver
+³       ³   ³   ³   ÃÄÄÄpathfinding
+³       ³   ³   ³   ÃÄÄÄpotion
+³       ³   ³   ³   ÃÄÄÄprofiler
+³       ³   ³   ³   ÃÄÄÄrealms
+³       ³   ³   ³   ÃÄÄÄscoreboard
+³       ³   ³   ³   ÃÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄdedicated
+³       ³   ³   ³   ³   ÃÄÄÄgui
+³       ³   ³   ³   ³   ÃÄÄÄintegrated
+³       ³   ³   ³   ³   ÃÄÄÄmanagement
+³       ³   ³   ³   ³   ÀÄÄÄnetwork
+³       ³   ³   ³   ÃÄÄÄsrc
+³       ³   ³   ³   ÃÄÄÄstats
+³       ³   ³   ³   ÃÄÄÄtileentity
+³       ³   ³   ³   ÃÄÄÄutil
+³       ³   ³   ³   ÃÄÄÄvillage
+³       ³   ³   ³   ÀÄÄÄworld
+³       ³   ³   ³       ÃÄÄÄbiome
+³       ³   ³   ³       ÃÄÄÄchunk
+³       ³   ³   ³       ³   ÀÄÄÄstorage
+³       ³   ³   ³       ÃÄÄÄdemo
+³       ³   ³   ³       ÃÄÄÄgen
+³       ³   ³   ³       ³   ÃÄÄÄfeature
+³       ³   ³   ³       ³   ÃÄÄÄlayer
+³       ³   ³   ³       ³   ÀÄÄÄstructure
+³       ³   ³   ³       ÀÄÄÄstorage
+³       ³   ³   ÀÄÄÄminecraftforge
+³       ³   ³       ÃÄÄÄclassloading
+³       ³   ³       ÃÄÄÄclient
+³       ³   ³       ³   ÃÄÄÄevent
+³       ³   ³       ³   ³   ÀÄÄÄsound
+³       ³   ³       ³   ÃÄÄÄgui
+³       ³   ³       ³   ÀÄÄÄmodel
+³       ³   ³       ³       ÃÄÄÄobj
+³       ³   ³       ³       ÀÄÄÄtechne
+³       ³   ³       ÃÄÄÄcommon
+³       ³   ³       ³   ÃÄÄÄchunkio
+³       ³   ³       ³   ÃÄÄÄconfig
+³       ³   ³       ³   ÃÄÄÄnetwork
+³       ³   ³       ³   ÀÄÄÄutil
+³       ³   ³       ÃÄÄÄevent
+³       ³   ³       ³   ÃÄÄÄbrewing
+³       ³   ³       ³   ÃÄÄÄentity
+³       ³   ³       ³   ³   ÃÄÄÄitem
+³       ³   ³       ³   ³   ÃÄÄÄliving
+³       ³   ³       ³   ³   ÃÄÄÄminecart
+³       ³   ³       ³   ³   ÀÄÄÄplayer
+³       ³   ³       ³   ÃÄÄÄterraingen
+³       ³   ³       ³   ÀÄÄÄworld
+³       ³   ³       ÃÄÄÄfluids
+³       ³   ³       ÃÄÄÄoredict
+³       ³   ³       ÃÄÄÄserver
+³       ³   ³       ³   ÀÄÄÄcommand
+³       ³   ³       ÀÄÄÄtransformers
+³       ³   ÀÄÄÄpaulscode
+³       ³       ÀÄÄÄsound
+³       ³           ÀÄÄÄcodecs
+³       ÃÄÄÄrecompSrc
+³       ³   ÃÄÄÄassets
+³       ³   ³   ÃÄÄÄfml
+³       ³   ³   ³   ÃÄÄÄlang
+³       ³   ³   ³   ÀÄÄÄtextures
+³       ³   ³   ³       ÀÄÄÄgui
+³       ³   ³   ÃÄÄÄforge
+³       ³   ³   ³   ÀÄÄÄlang
+³       ³   ³   ÀÄÄÄminecraft
+³       ³   ³       ÃÄÄÄfont
+³       ³   ³       ÃÄÄÄlang
+³       ³   ³       ÃÄÄÄshaders
+³       ³   ³       ³   ÃÄÄÄpost
+³       ³   ³       ³   ÀÄÄÄprogram
+³       ³   ³       ÃÄÄÄtexts
+³       ³   ³       ÀÄÄÄtextures
+³       ³   ³           ÃÄÄÄblocks
+³       ³   ³           ÃÄÄÄcolormap
+³       ³   ³           ÃÄÄÄeffect
+³       ³   ³           ÃÄÄÄentity
+³       ³   ³           ³   ÃÄÄÄcat
+³       ³   ³           ³   ÃÄÄÄchest
+³       ³   ³           ³   ÃÄÄÄcow
+³       ³   ³           ³   ÃÄÄÄcreeper
+³       ³   ³           ³   ÃÄÄÄendercrystal
+³       ³   ³           ³   ÃÄÄÄenderdragon
+³       ³   ³           ³   ÃÄÄÄenderman
+³       ³   ³           ³   ÃÄÄÄghast
+³       ³   ³           ³   ÃÄÄÄhorse
+³       ³   ³           ³   ³   ÀÄÄÄarmor
+³       ³   ³           ³   ÃÄÄÄpig
+³       ³   ³           ³   ÃÄÄÄsheep
+³       ³   ³           ³   ÃÄÄÄskeleton
+³       ³   ³           ³   ÃÄÄÄslime
+³       ³   ³           ³   ÃÄÄÄspider
+³       ³   ³           ³   ÃÄÄÄvillager
+³       ³   ³           ³   ÃÄÄÄwither
+³       ³   ³           ³   ÃÄÄÄwolf
+³       ³   ³           ³   ÀÄÄÄzombie
+³       ³   ³           ÃÄÄÄenvironment
+³       ³   ³           ÃÄÄÄfont
+³       ³   ³           ÃÄÄÄgui
+³       ³   ³           ³   ÃÄÄÄachievement
+³       ³   ³           ³   ÃÄÄÄcontainer
+³       ³   ³           ³   ³   ÀÄÄÄcreative_inventory
+³       ³   ³           ³   ÀÄÄÄtitle
+³       ³   ³           ³       ÀÄÄÄbackground
+³       ³   ³           ÃÄÄÄitems
+³       ³   ³           ÃÄÄÄmap
+³       ³   ³           ÃÄÄÄmisc
+³       ³   ³           ÃÄÄÄmodels
+³       ³   ³           ³   ÀÄÄÄarmor
+³       ³   ³           ÃÄÄÄpainting
+³       ³   ³           ÀÄÄÄparticle
+³       ³   ÃÄÄÄcpw
+³       ³   ³   ÀÄÄÄmods
+³       ³   ³       ÀÄÄÄfml
+³       ³   ³           ÃÄÄÄclient
+³       ³   ³           ³   ÃÄÄÄconfig
+³       ³   ³           ³   ÃÄÄÄevent
+³       ³   ³           ³   ÀÄÄÄregistry
+³       ³   ³           ÃÄÄÄcommon
+³       ³   ³           ³   ÃÄÄÄasm
+³       ³   ³           ³   ³   ÀÄÄÄtransformers
+³       ³   ³           ³   ³       ÀÄÄÄdeobf
+³       ³   ³           ³   ÃÄÄÄdiscovery
+³       ³   ³           ³   ³   ÀÄÄÄasm
+³       ³   ³           ³   ÃÄÄÄevent
+³       ³   ³           ³   ÃÄÄÄeventhandler
+³       ³   ³           ³   ÃÄÄÄfunctions
+³       ³   ³           ³   ÃÄÄÄgameevent
+³       ³   ³           ³   ÃÄÄÄlauncher
+³       ³   ³           ³   ÃÄÄÄnetwork
+³       ³   ³           ³   ³   ÃÄÄÄhandshake
+³       ³   ³           ³   ³   ÃÄÄÄinternal
+³       ³   ³           ³   ³   ÀÄÄÄsimpleimpl
+³       ³   ³           ³   ÃÄÄÄpatcher
+³       ³   ³           ³   ÃÄÄÄregistry
+³       ³   ³           ³   ÃÄÄÄtoposort
+³       ³   ³           ³   ÀÄÄÄversioning
+³       ³   ³           ÃÄÄÄrelauncher
+³       ³   ³           ÃÄÄÄrepackage
+³       ³   ³           ³   ÀÄÄÄcom
+³       ³   ³           ³       ÀÄÄÄnothome
+³       ³   ³           ³           ÀÄÄÄdelta
+³       ³   ³           ÀÄÄÄserver
+³       ³   ÃÄÄÄibxm
+³       ³   ÃÄÄÄnet
+³       ³   ³   ÃÄÄÄminecraft
+³       ³   ³   ³   ÃÄÄÄblock
+³       ³   ³   ³   ³   ÀÄÄÄmaterial
+³       ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ÃÄÄÄaudio
+³       ³   ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ÃÄÄÄgui
+³       ³   ³   ³   ³   ³   ÃÄÄÄachievement
+³       ³   ³   ³   ³   ³   ÃÄÄÄinventory
+³       ³   ³   ³   ³   ³   ÀÄÄÄstream
+³       ³   ³   ³   ³   ÃÄÄÄmain
+³       ³   ³   ³   ³   ÃÄÄÄmodel
+³       ³   ³   ³   ³   ÃÄÄÄmultiplayer
+³       ³   ³   ³   ³   ÃÄÄÄnetwork
+³       ³   ³   ³   ³   ÃÄÄÄparticle
+³       ³   ³   ³   ³   ÃÄÄÄrenderer
+³       ³   ³   ³   ³   ³   ÃÄÄÄculling
+³       ³   ³   ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ³   ÃÄÄÄtexture
+³       ³   ³   ³   ³   ³   ÀÄÄÄtileentity
+³       ³   ³   ³   ³   ÃÄÄÄresources
+³       ³   ³   ³   ³   ³   ÀÄÄÄdata
+³       ³   ³   ³   ³   ÃÄÄÄsettings
+³       ³   ³   ³   ³   ÃÄÄÄshader
+³       ³   ³   ³   ³   ÃÄÄÄstream
+³       ³   ³   ³   ³   ÀÄÄÄutil
+³       ³   ³   ³   ÃÄÄÄcommand
+³       ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ÃÄÄÄcrash
+³       ³   ³   ³   ÃÄÄÄcreativetab
+³       ³   ³   ³   ÃÄÄÄdispenser
+³       ³   ³   ³   ÃÄÄÄenchantment
+³       ³   ³   ³   ÃÄÄÄentity
+³       ³   ³   ³   ³   ÃÄÄÄai
+³       ³   ³   ³   ³   ³   ÀÄÄÄattributes
+³       ³   ³   ³   ³   ÃÄÄÄboss
+³       ³   ³   ³   ³   ÃÄÄÄeffect
+³       ³   ³   ³   ³   ÃÄÄÄitem
+³       ³   ³   ³   ³   ÃÄÄÄmonster
+³       ³   ³   ³   ³   ÃÄÄÄpassive
+³       ³   ³   ³   ³   ÃÄÄÄplayer
+³       ³   ³   ³   ³   ÀÄÄÄprojectile
+³       ³   ³   ³   ÃÄÄÄevent
+³       ³   ³   ³   ÃÄÄÄinit
+³       ³   ³   ³   ÃÄÄÄinventory
+³       ³   ³   ³   ÃÄÄÄitem
+³       ³   ³   ³   ³   ÀÄÄÄcrafting
+³       ³   ³   ³   ÃÄÄÄnbt
+³       ³   ³   ³   ÃÄÄÄnetwork
+³       ³   ³   ³   ³   ÃÄÄÄhandshake
+³       ³   ³   ³   ³   ³   ÀÄÄÄclient
+³       ³   ³   ³   ³   ÃÄÄÄlogin
+³       ³   ³   ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄplay
+³       ³   ³   ³   ³   ³   ÃÄÄÄclient
+³       ³   ³   ³   ³   ³   ÀÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄrcon
+³       ³   ³   ³   ³   ÀÄÄÄstatus
+³       ³   ³   ³   ³       ÃÄÄÄclient
+³       ³   ³   ³   ³       ÀÄÄÄserver
+³       ³   ³   ³   ÃÄÄÄpathfinding
+³       ³   ³   ³   ÃÄÄÄpotion
+³       ³   ³   ³   ÃÄÄÄprofiler
+³       ³   ³   ³   ÃÄÄÄrealms
+³       ³   ³   ³   ÃÄÄÄscoreboard
+³       ³   ³   ³   ÃÄÄÄserver
+³       ³   ³   ³   ³   ÃÄÄÄdedicated
+³       ³   ³   ³   ³   ÃÄÄÄgui
+³       ³   ³   ³   ³   ÃÄÄÄintegrated
+³       ³   ³   ³   ³   ÃÄÄÄmanagement
+³       ³   ³   ³   ³   ÀÄÄÄnetwork
+³       ³   ³   ³   ÃÄÄÄsrc
+³       ³   ³   ³   ÃÄÄÄstats
+³       ³   ³   ³   ÃÄÄÄtileentity
+³       ³   ³   ³   ÃÄÄÄutil
+³       ³   ³   ³   ÃÄÄÄvillage
+³       ³   ³   ³   ÀÄÄÄworld
+³       ³   ³   ³       ÃÄÄÄbiome
+³       ³   ³   ³       ÃÄÄÄchunk
+³       ³   ³   ³       ³   ÀÄÄÄstorage
+³       ³   ³   ³       ÃÄÄÄdemo
+³       ³   ³   ³       ÃÄÄÄgen
+³       ³   ³   ³       ³   ÃÄÄÄfeature
+³       ³   ³   ³       ³   ÃÄÄÄlayer
+³       ³   ³   ³       ³   ÀÄÄÄstructure
+³       ³   ³   ³       ÀÄÄÄstorage
+³       ³   ³   ÀÄÄÄminecraftforge
+³       ³   ³       ÃÄÄÄclassloading
+³       ³   ³       ÃÄÄÄclient
+³       ³   ³       ³   ÃÄÄÄevent
+³       ³   ³       ³   ³   ÀÄÄÄsound
+³       ³   ³       ³   ÃÄÄÄgui
+³       ³   ³       ³   ÀÄÄÄmodel
+³       ³   ³       ³       ÃÄÄÄobj
+³       ³   ³       ³       ÀÄÄÄtechne
+³       ³   ³       ÃÄÄÄcommon
+³       ³   ³       ³   ÃÄÄÄchunkio
+³       ³   ³       ³   ÃÄÄÄconfig
+³       ³   ³       ³   ÃÄÄÄnetwork
+³       ³   ³       ³   ÀÄÄÄutil
+³       ³   ³       ÃÄÄÄevent
+³       ³   ³       ³   ÃÄÄÄbrewing
+³       ³   ³       ³   ÃÄÄÄentity
+³       ³   ³       ³   ³   ÃÄÄÄitem
+³       ³   ³       ³   ³   ÃÄÄÄliving
+³       ³   ³       ³   ³   ÃÄÄÄminecart
+³       ³   ³       ³   ³   ÀÄÄÄplayer
+³       ³   ³       ³   ÃÄÄÄterraingen
+³       ³   ³       ³   ÀÄÄÄworld
+³       ³   ³       ÃÄÄÄfluids
+³       ³   ³       ÃÄÄÄoredict
+³       ³   ³       ÃÄÄÄserver
+³       ³   ³       ³   ÀÄÄÄcommand
+³       ³   ³       ÀÄÄÄtransformers
+³       ³   ÀÄÄÄpaulscode
+³       ³       ÀÄÄÄsound
+³       ³           ÀÄÄÄcodecs
+³       ÀÄÄÄrepackMinecraft
+ÃÄÄÄeclipse
+³   ÃÄÄÄ.metadata
+³   ³   ÀÄÄÄ.plugins
+³   ³       ÃÄÄÄorg.eclipse.core.resources
+³   ³       ³   ÃÄÄÄ.history
+³   ³       ³   ³   ÃÄÄÄa4
+³   ³       ³   ³   ÃÄÄÄc4
+³   ³       ³   ³   ÃÄÄÄd9
+³   ³       ³   ³   ÀÄÄÄf4
+³   ³       ³   ÃÄÄÄ.projects
+³   ³       ³   ³   ÃÄÄÄ.org.eclipse.jdt.core.external.folders
+³   ³       ³   ³   ÀÄÄÄMinecraft
+³   ³       ³   ³       ÃÄÄÄ.indexes
+³   ³       ³   ³       ÃÄÄÄorg.eclipse.jdt.apt.core
+³   ³       ³   ³       ÀÄÄÄorg.eclipse.jdt.core
+³   ³       ³   ÃÄÄÄ.root
+³   ³       ³   ³   ÀÄÄÄ.indexes
+³   ³       ³   ÀÄÄÄ.safetable
+³   ³       ÃÄÄÄorg.eclipse.core.runtime
+³   ³       ³   ÀÄÄÄ.settings
+³   ³       ÃÄÄÄorg.eclipse.debug.core
+³   ³       ³   ÀÄÄÄ.launches
+³   ³       ÃÄÄÄorg.eclipse.debug.ui
+³   ³       ÃÄÄÄorg.eclipse.e4.workbench
+³   ³       ÃÄÄÄorg.eclipse.jdt.core
+³   ³       ³   ÀÄÄÄ.org.eclipse.jdt.core.external.folders
+³   ³       ÃÄÄÄorg.eclipse.jdt.launching
+³   ³       ÃÄÄÄorg.eclipse.jdt.ui
+³   ³       ÃÄÄÄorg.eclipse.pde.api.tools
+³   ³       ÃÄÄÄorg.eclipse.pde.core
+³   ³       ³   ÃÄÄÄ.cache
+³   ³       ³   ÀÄÄÄ.p2
+³   ³       ³       ÀÄÄÄorg.eclipse.equinox.p2.engine
+³   ³       ³           ÀÄÄÄprofileRegistry
+³   ³       ÃÄÄÄorg.eclipse.ui.editors
+³   ³       ÀÄÄÄorg.eclipse.ui.workbench
+³   ÃÄÄÄconfig
+³   ÃÄÄÄcrash-reports
+³   ÃÄÄÄlogs
+³   ÃÄÄÄmods
+³   ÃÄÄÄresourcepacks
+³   ÀÄÄÄsaves
+³       ÀÄÄÄNew World
+³           ÃÄÄÄdata
+³           ÃÄÄÄDIM-1
+³           ³   ÀÄÄÄdata
+³           ÃÄÄÄDIM1
+³           ³   ÀÄÄÄdata
+³           ÃÄÄÄplayerdata
+³           ÃÄÄÄregion
+³           ÀÄÄÄstats
+ÃÄÄÄgradle
+³   ÀÄÄÄwrapper
+ÃÄÄÄout
+³   ÀÄÄÄproduction
+³       ÀÄÄÄTest-Mod
+³           ÃÄÄÄassets
+³           ³   ÀÄÄÄletsmodreboot
+³           ³       ÃÄÄÄlang
+³           ³       ÀÄÄÄtextures
+³           ³           ÀÄÄÄitems
+³           ÀÄÄÄcom
+³               ÀÄÄÄBobbybim
+³                   ÀÄÄÄLetsModReboot
+³                       ÃÄÄÄblock
+³                       ÃÄÄÄclient
+³                       ³   ÀÄÄÄgui
+³                       ÃÄÄÄcreativeTab
+³                       ÃÄÄÄhandler
+³                       ÃÄÄÄinit
+³                       ÃÄÄÄitem
+³                       ÃÄÄÄproxy
+³                       ÃÄÄÄreference
+³                       ÀÄÄÄutility
+ÀÄÄÄsrc
+    ÀÄÄÄmain
+        ÃÄÄÄjava
+        ³   ÀÄÄÄcom
+        ³       ÀÄÄÄBobbybim
+        ³           ÀÄÄÄLetsModReboot
+        ³               ÃÄÄÄblock
+        ³               ÃÄÄÄclient
+        ³               ³   ÀÄÄÄgui
+        ³               ÃÄÄÄconfiguration
+        ³               ÃÄÄÄcreativeTab
+        ³               ÃÄÄÄhandler
+        ³               ÃÄÄÄinit
+        ³               ÃÄÄÄitem
+        ³               ÃÄÄÄproxy
+        ³               ÃÄÄÄreference
+        ³               ÀÄÄÄutility
+        ÀÄÄÄresources
+            ÀÄÄÄassets
+                ÀÄÄÄletsmodreboot
+                    ÃÄÄÄlang
+                    ÃÄÄÄmodels
+                    ÃÄÄÄsounds
+                    ÀÄÄÄtextures
+                        ÃÄÄÄblocks
+                        ÃÄÄÄgui
+                        ÀÄÄÄitems
