@@ -1,0 +1,13 @@
+package com.bobbybim.letsmodreboot
+
+import cpw.mods.common.Mod;
+
+@Mod(modid="LetsModReboot", name="Lets Mod Reboot", version1.7.10-1.0)
+
+public class LetsModReboot {
+	
+	
+	
+	
+
+}

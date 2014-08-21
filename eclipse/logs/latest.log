@@ -1,0 +1,36 @@
+[00:27:01] [main/INFO]: Setting user: ForgeDevName
+[00:27:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:27:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[00:27:07] [Sound Library Loader/INFO]: Sound engine started
+[00:27:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:27:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:27:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[00:27:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:27:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:27:08] [Sound Library Loader/INFO]: Sound engine started
+[00:27:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:27:14] [Server thread/INFO]: Generating keypair
+[00:27:15] [Server thread/INFO]: Preparing start region for level 0
+[00:27:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:27:15] [Server thread/INFO]: ForgeDevName[local:E:2a5a9a65] logged in with entity id 262 at (-424.5700529480936, 4.0, -204.70472884329766)
+[00:27:15] [Server thread/INFO]: ForgeDevName joined the game
+[00:27:39] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:39] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:40] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:41] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:41] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:42] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:43] [Client thread/INFO]: [CHAT] LetsModReboot:Fabric, LetsModReboot:pajamaPants
+[00:27:44] [Server thread/INFO]: [ForgeDevName: Given [Fabric] * 1 to ForgeDevName]
+[00:27:44] [Client thread/INFO]: [CHAT] Given [Fabric] * 1 to ForgeDevName
+[00:28:06] [Server thread/INFO]: Saving and pausing game...
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:28:06] [Server thread/INFO]: Stopping server
+[00:28:06] [Server thread/INFO]: Saving players
+[00:28:06] [Server thread/INFO]: Saving worlds
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:28:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:28:08] [Client thread/INFO]: Stopping!
